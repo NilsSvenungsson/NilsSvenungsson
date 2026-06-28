@@ -1,10 +1,10 @@
 Hi 👋 My name is Nils
 =====================
 
-Studying web development
+Junior Fullstack Developer
 ------------------------
 
-I'm currently learning HTML and CSS to make websites in school.
+I'm A Fullstack Developer with a wide set of skills and learning fast.
 
 *   🌍  I'm based in Sweden
 *   🧠  Fullstack Developer and Engineer
