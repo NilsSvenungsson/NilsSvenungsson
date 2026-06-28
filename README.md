@@ -7,7 +7,7 @@ Studying web development
 I'm currently learning HTML and CSS to make websites in school.
 
 *   🌍  I'm based in Sweden
-*   🧠  I'm learning web development
+*   🧠  Fullstack Developer and Engineer
 
 ### Skills 
 <p align="left">
